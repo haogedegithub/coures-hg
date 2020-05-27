@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14e6e328-a826-4774-bca8-5ad0f02768f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="csdn_database: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="csdn_database: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="auth_user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZyV5X1ePuFO43HJBlTB3MrIpkz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../新建文件夹/mysite" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\csdn\练习\第三周\web4_2\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web4_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver 8000" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web4_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="web4_2" type="Python.DjangoServer" factoryName="Django server">
+      <module name="web4_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.web4_2" />
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14e6e328-a826-4774-bca8-5ad0f02768f0" name="Default Changelist" comment="" />
+      <created>1585811137469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585811137469</updated>
+      <workItem from="1585811322474" duration="9678000" />
+      <workItem from="1585840845599" duration="1044000" />
+      <workItem from="1586143064477" duration="127000" />
+      <workItem from="1586143414071" duration="251000" />
+      <workItem from="1586143950644" duration="4656000" />
+      <workItem from="1586248095085" duration="6099000" />
+      <workItem from="1586326352841" duration="10673000" />
+      <workItem from="1586672705940" duration="11750000" />
+      <workItem from="1586746280649" duration="15583000" />
+      <workItem from="1587103209054" duration="12154000" />
+      <workItem from="1587202407802" duration="110000" />
+      <workItem from="1587202860032" duration="4607000" />
+      <workItem from="1587278035898" duration="14568000" />
+      <workItem from="1587358804646" duration="20043000" />
+      <workItem from="1587450914902" duration="11105000" />
+      <workItem from="1587621692498" duration="4408000" />
+      <workItem from="1588577340742" duration="1557000" />
+      <workItem from="1588663547062" duration="674000" />
+      <workItem from="1590044489329" duration="658000" />
+      <workItem from="1590069054540" duration="18791000" />
+      <workItem from="1590308751914" duration="596000" />
+      <workItem from="1590392663003" duration="1605000" />
+      <workItem from="1590418921093" duration="6000" />
+      <workItem from="1590455545052" duration="2248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="507" y="148" width="1115" height="796" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586758406656">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state x="507" y="148" width="1115" height="796" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1024@0.0.1920.1024" timestamp="1586758406656" />
+    <state x="489" y="269" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587462858646">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state x="489" y="269" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1024@0.0.1920.1024" timestamp="1587462858646" />
+    <state x="630" y="173" key="FileChooserDialogImpl" timestamp="1590485293702">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state x="630" y="173" key="FileChooserDialogImpl/0.0.1920.1024@0.0.1920.1024" timestamp="1590485293702" />
+    <state width="1852" height="203" key="GridCell.Tab.0.bottom" timestamp="1590159751391">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state width="1852" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1024@0.0.1920.1024" timestamp="1590159751391" />
+    <state width="1852" height="203" key="GridCell.Tab.0.center" timestamp="1590159751391">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state width="1852" height="203" key="GridCell.Tab.0.center/0.0.1920.1024@0.0.1920.1024" timestamp="1590159751391" />
+    <state width="1852" height="203" key="GridCell.Tab.0.left" timestamp="1590159751391">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state width="1852" height="203" key="GridCell.Tab.0.left/0.0.1920.1024@0.0.1920.1024" timestamp="1590159751391" />
+    <state width="1852" height="203" key="GridCell.Tab.0.right" timestamp="1590159751391">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state width="1852" height="203" key="GridCell.Tab.0.right/0.0.1920.1024@0.0.1920.1024" timestamp="1590159751391" />
+    <state x="185" y="0" key="SettingsEditor" timestamp="1586776046774">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state x="185" y="0" key="SettingsEditor/0.0.1920.1024@0.0.1920.1024" timestamp="1586776046774" />
+    <state x="721" y="331" width="510" height="362" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1586759863313">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state x="721" y="331" width="510" height="362" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1024@0.0.1920.1024" timestamp="1586759863313" />
+    <state x="485" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1590455549243">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state x="485" y="246" key="com.intellij.ide.util.TipDialog/0.0.1920.1024@0.0.1920.1024" timestamp="1590455549243" />
+    <state x="453" y="-2" width="1009" height="1470" key="search.everywhere.popup" timestamp="1587108966998">
+      <screen x="0" y="0" width="1920" height="1024" />
+    </state>
+    <state x="453" y="-2" width="1009" height="1470" key="search.everywhere.popup/0.0.1920.1024@0.0.1920.1024" timestamp="1587108966998" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/web4_2$test.coverage" NAME="test Coverage Results" MODIFIED="1590139682829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/web4_2$manage.coverage" NAME="manage Coverage Results" MODIFIED="1587636544522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
